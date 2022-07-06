@@ -95,7 +95,7 @@ if (num != 2):
   print("Num is not 2")
 
 # Chained
-num = 2
+num = 5
 if num < 5:
   print("Num is < 5")
 elif num < 9:
